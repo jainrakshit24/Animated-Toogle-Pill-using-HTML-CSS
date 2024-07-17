@@ -25,9 +25,7 @@ This project demonstrates how to create an animated toggle pill using only HTML 
 
 Here are some screenshots of the animated toggle pill in action:
 
-![Toggle Pill Off State](screenshots/toggle-off.png)
-
-![Toggle Pill On State](screenshots/toggle-on.png)
+![Toggle Pill Off State](screenshots/screenshot1.png)
 
 ## Contributing
 
